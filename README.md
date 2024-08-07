@@ -136,3 +136,9 @@ Solid all-rounder. The resume feedback was surprisingly helpful, but responses c
 ---
 
 Remember, these tools are meant to supplement your knowledge, not replace it. Good luck with your interviews!
+
+---
+This repository contains the content for my Medium article comparing top Interview Copilot services.
+
+Read the full article on Medium: [Cracking the Interview: My Deep Dive into Interview Copilot Services](https://medium.com/@nicksamcale/top-interview-copilot-services-comparison-997d2d588036)
+
