@@ -59,7 +59,6 @@ Homepage: [Interview Hammer](https://interviewhammer.com/)
 - Available on Android and web
 
 ### Cons
-- Requires waitlist application (usually approved within a day)
 - Manual experience entry (no CV upload)
 
 ### My Notes
